@@ -1,4 +1,4 @@
-# API-Rest-CRUD-with-Spring-Boot
+# CRUD RESTful API with Spring Boot
 
 # Tools
   - IntelliJ IDEA
